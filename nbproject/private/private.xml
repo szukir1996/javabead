@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/graph/UnlimitedGraph.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/graph/Node.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/Main.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/graph/Graph.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/graph/GraphFactory.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/graph/PrintableGraph.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/file/FileManager.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/graph/LimitedGraph.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/graph/exceptions/NodeNotFoundException.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/Manager.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/user/AdminUser.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/user/User.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/graph/exceptions/UnsupportedGraphOperation.java</file>
+            <file>file:/C:/Users/noxyg/Desktop/bead_netbeans/src/elte/hu/eltecom/user/Language.java</file>
+        </group>
+    </open-files>
+</project-private>
