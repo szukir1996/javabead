@@ -50,6 +50,7 @@ public class LimitedGraph implements PrintableGraph{
 
             for(int i=0;i<nodes.length;i++){
                     edges[i][userIndex] = false;
+                    edges[userIndex][i] = false;
             }
     }
 
@@ -86,7 +87,7 @@ public class LimitedGraph implements PrintableGraph{
         }
         for(int i=0;i<validNodes.size();i++){
             for(int j=0;j<validNodes.size();j++){
-                str.append(edges[validNodes.get(i)][j]).append(" ");
+                str.append(edges[validNodes.get(i)][validNodes.get(j)]).append(" ");
             }
             str.append("\n");
         }
