@@ -4,7 +4,6 @@ import elte.hu.eltecom.graph.exceptions.NodeNotFoundException;
 import elte.hu.eltecom.graph.exceptions.UnsupportedGraphOperation;
 import elte.hu.eltecom.user.User;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class LimitedGraph implements PrintableGraph{
 
@@ -87,7 +86,7 @@ public class LimitedGraph implements PrintableGraph{
         }
         for(int i=0;i<validNodes.size();i++){
             for(int j=0;j<validNodes.size();j++){
-                str.append(edges[j][validNodes.get(i)]).append(" ");
+                str.append(edges[validNodes.get(i)][j]).append(" ");
             }
             str.append("\n");
         }
